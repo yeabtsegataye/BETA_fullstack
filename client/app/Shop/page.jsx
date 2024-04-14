@@ -8,7 +8,6 @@ export default function Shop() {
         <div class="col-span-12 md:col-span-3">
           <Advert/>
         </div>
-
         <div class="col-span-12 md:col-span-9">
           <Shoping />
         </div>
